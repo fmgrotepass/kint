@@ -16,5 +16,5 @@ This is a fork of Michael Stapelberg's [KinT project](https://github.com/kinx-pr
 | Molex 13 pin connectors| 4-6 | Needed if you don't want to desolder old ones [Link](https://octopart.com/39-53-2135-molex-7670149?r=sp)
 | STM32F411 Blackpill    | 1   | Search on Aliexpress.com
 | Panel mount USB-C      | 1   | [Link](https://www.amazon.com/dp/B075R7QBQD)
-| Laser cut USB plate    | 1   | AI file [Link](https://github.com/dcpedit/kinesismod/blob/master/model/acrylic_plate.ai)
+| Laser cut USB plate    | 1   | AI file [Link](https://github.com/dcpedit/kinesismod/blob/master/model/acrylic_plate.ai). Requires USB panel mount holes to be 15mm apart.
 | Socketed headers       |     | Only needed if you want to socket your Blackpill.
