@@ -15,5 +15,5 @@ This is a fork of Michael Stapelberg's [KinT project](https://github.com/kinx-pr
 | SMD 10k resistors      | 4   | [Link](https://octopart.com/crcw120610k0fkeac-vishay-20811529)
 | Molex 13 pin connectors| 4-6 | Needed if you don't want to desolder old ones [Link](https://octopart.com/39-53-2135-molex-7670149?r=sp)
 | STM32F411 Blackpill    | 1   | Search WeAct Blackpill on Aliexpress.com
-| Panel mount USB-C      | 1   | [Link](https://a.co/d/cRoqHqx)
+| Panel mount USB-C      | 1   | Amazon [Link](https://a.co/d/cRoqHqx)
 | Socketed headers       |     | Only needed if you want to socket your Blackpill.
