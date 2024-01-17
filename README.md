@@ -29,9 +29,9 @@ You can now use the Pillbug dev board along with ZMK firware to make this a wire
 | Pillbug                | 1   | MechWild [Link](https://mechwild.com/product/pillbug/)
 | 2000 mAh battery       | 1   | Amazon [Link](https://a.co/d/hlTVT1p)
 
-v2022-08-05 of the PCB requires you to bridge the 3.3v pins with a wire.  The diagram below shows you which pins.
+v2022-08-05 of the PCB requires you to bridge the 3.3v pins with a wire.  You can do this easily after soldering the controller in place and tacking a short wire with stripped ends to the existing solder joints on the same side as the LEDs/resistors.  The diagram below shows you which pins.
 
-<img width="300" alt="wire bridge" src="https://github.com/dcpedit/kint/assets/800930/58853577-421a-4007-8ab4-ac768d001421">
+<img width="300" alt="bridge" src="https://github.com/dcpedit/kint/assets/800930/aac79663-8b7e-4620-b262-9997442df8e8">
 
 The current version in the repo does not require this.
 
