@@ -17,3 +17,5 @@ This is a fork of Michael Stapelberg's [KinT project](https://github.com/kinx-pr
 | STM32F411 Blackpill    | 1   | Search WeAct Blackpill on Aliexpress.com
 | Panel mount USB-C      | 1   | Amazon [Link](https://a.co/d/cRoqHqx)
 | Socketed headers       |     | Only needed if you want to socket your Blackpill.
+
+<img width="600" alt="wire bridge" src="https://github.com/dcpedit/kint/assets/800930/58853577-421a-4007-8ab4-ac768d001421">
