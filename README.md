@@ -36,3 +36,12 @@ v2022-08-05 of the PCB requires you to bridge the 3.3v pins with a wire.  The di
 The current version in the repo does not require this.
 
 If you're using a battery that's larger than 500 mAh, short JP1 on the back of the Pillbug to enable "Charge Boost" (changes charge rate from 100mA to 500mA)
+
+## Firmware
+Vial:
+* `/firmware/dcpedit_kint_bp_vial.bin` - Default keymap (stock Kinesis)
+* `/firmware/dcpedit_kint_bp_vial_6layers.bin` - Support for 6 layers
+
+ZMK:
+* `/firmware/zmk_default.uf2` - Default keymap (stock Kinesis)
+* `/firmware/zmk_reset.uf2` - Resets PillBug board for BT connectivity issue on MacOS
