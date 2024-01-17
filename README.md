@@ -38,10 +38,12 @@ The current version in the repo does not require this.
 If you're using a battery that's larger than 500 mAh, short JP1 on the back of the Pillbug to enable "Charge Boost" (changes charge rate from 100mA to 500mA)
 
 ## Firmware
-Vial:
+### Vial
+Source: https://github.com/dcpedit/vial-qmk-dev/tree/vial/keyboards/dcpedit/kint_bp
 * `/firmware/dcpedit_kint_bp_vial.bin` - Default keymap (stock Kinesis)
 * `/firmware/dcpedit_kint_bp_vial_6layers.bin` - Support for 6 layers
 
-ZMK:
+### ZMK
+Source: https://github.com/dcpedit/zmk/tree/kinesispb/app/boards/shields/kinesispb
 * `/firmware/zmk_default.uf2` - Default keymap (stock Kinesis)
 * `/firmware/zmk_reset.uf2` - Resets PillBug board for BT connectivity issue on MacOS
