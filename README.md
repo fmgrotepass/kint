@@ -1,3 +1,10 @@
+# Project moved to [Pillz Mod](https://i.imgur.com/4i2z9Xu.png)
+<p aligh="center">
+  <img src="https://i.imgur.com/4i2z9Xu.png" width="350">
+</p>
+
+This project has been replaced by Pillz Mod: https://github.com/dcpedit/pillzmod
+
 # KinT Blackpill Edition
 
 ![kinesis-3](https://user-images.githubusercontent.com/800930/186173690-8d34ccd0-7eec-4b3d-93a0-488730113e12.jpg)
